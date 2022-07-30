@@ -12,6 +12,5 @@ Sont inclus :
 - ftp_adduser.sh : script permettent de créer de nouveau(x) utilisateur(s)
 - ftp_deluser.sh : script gérant la suppression d'utilisateur(s)
 
-Ses deux scripts pourront être lancer depuis la racine du serveur à l'aide de la commande : 
-"ftp_adduser.sh" ou "ftp_deluser.sh"
+Ses deux scripts pourront être lancer depuis la racine du serveur à l'aide des commandes : `ftp_adduser.sh` ou `ftp_deluser.sh`
 Selon le besoin.
