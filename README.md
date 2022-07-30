@@ -4,7 +4,9 @@ Ce script a été conçu pour fonctionner avec un serveur WEB (Apache ou Nginx) 
 Ce script fonctionne sur la distribution Debian 11. J'imagine qu'il devrait également être fonctionnel sur ses dérivées.
 ## Fonctionnement
 Copier, télécharger, giter l'ensemble des fichiers et lancer
-$ ./install_ftp.sh
+
+`./install_ftp.sh`
+
 ### Ajout et suppression d'utilisateur ultérieur
 Sont inclus : 
 - ftp_adduser.sh : script permettent de créer de nouveau(x) utilisateur(s)
